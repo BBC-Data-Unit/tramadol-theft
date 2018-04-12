@@ -6,7 +6,8 @@ The story came about after David obtained an NHS "alert message" revealing the t
 
 ## Get the data
 
-* ONS: [Deaths related to drug poisoning in England and Wales Statistical bulletins](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/previousReleases)
+* ONS: [Deaths related to drug poisoning in England and Wales Statistical bulletins](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/previousReleases) - specifically the [latest figures for 2016, published in 2017](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningenglandandwalesreferencetable). A copy of the spreadsheet [can be found in this repo](https://github.com/BBC-Data-Unit/tramadol-theft/blob/master/deathsrelatedtodrugpoisoningenglandandwales.xls)
+* [Sheet 6a contains a breakdown by substance, including Tramadol](https://github.com/BBC-Data-Unit/tramadol-theft/blob/master/drugdeathsbysubtance.xlsx)
 
 ## Quotes and interviews
 
